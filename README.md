@@ -1,6 +1,8 @@
 # Stanford-Research-Notes
 https://www.youtube.com/watch?v=BXLcKQ6fLsU&amp;t=5h20m
 
+
+# Begin Medium MorningStar Moving
 https://www.scs.stanford.edu/17au-cs244b/labs/projects/clow_jiang.pdf
 
 
